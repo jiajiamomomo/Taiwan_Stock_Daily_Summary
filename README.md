@@ -1,0 +1,2 @@
+# Taiwan_Stock_Daily_Summary
+使用XQ全球贏家(個人版)對台灣所有上市股票進行查詢並彙整於Excel檔案
